@@ -1,7 +1,7 @@
 ---
 title: Kruse Kontrol Digital
 subtitle: Support sustainable farming while enjoying a tune
-image: /img/home-jumbotron.jpg
+image: img/orjo_klubmacht.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
