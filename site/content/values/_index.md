@@ -13,7 +13,7 @@ values:
   - heading: Lambda
     text: |
       gerade noch still existing very good music group
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/fahrstuhl_klein.jpg
   - heading: Maneki Nekoč
     text: |
       was als a very good music group
