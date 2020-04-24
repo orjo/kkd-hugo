@@ -6,13 +6,10 @@ values:
     text: |
       was a very good music group
     imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+  - heading: Hauntend by the Remote
+    text: |
+      still existing very good music group
+    imageUrl: img/cover-front.jpg
   - heading: Sustainable farming
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
