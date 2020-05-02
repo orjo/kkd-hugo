@@ -3,33 +3,28 @@ title: Kruse Kontrol Digital
 subtitle: Support sustainable farming while enjoying a tune
 image: img/orjo_klubmacht.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: neue Webseite
+  text: WOW - schnell wie der Blitz gibt es eine hochaktuelle neue Webseite von
+    KKD mit allen nötigen und besonders wichtigen Infos. Was geht noch? Kaufen,
+    kaufen, kaufen Sie!
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  heading: alles von Lambda jetzt auf Spotify und Co.
+  text: >-
+    SUPER. Alle Lambda-Songs kann man nun auf Spotify oder jedem anderen
+    beliebigen Streaming Anbieter anhören. Das ist ja toll!
+
+
+    Auch hier wäre ein Bild cool?
+products: []
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Haunted by the Remote in Wien und Graz
+  text: >-
+    Im Jänner haben Haunted by the Remote zusammen mit den großartigen Drive
+    Moya im Kramladen in Wien und im Wakuum Graz. Das war ganz schön toll!
+
+
+    Warum steht da unten: "read more"?
+
+
+    Könnte ich hier ein Bild einfügen?
 ---
